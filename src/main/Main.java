@@ -9,7 +9,7 @@ public class Main {
         JFrame window = new JFrame("Game");
         window.setLayout(new BorderLayout());
 
-        JLabel label = new JLabel("Hello World", SwingConstants.CENTER);
+        JLabel label = new JLabel("Hello World !!", SwingConstants.CENTER);
         label.setFont(new Font("Serif", Font.BOLD, 64)); 
         label.setHorizontalAlignment(SwingConstants.CENTER);
         label.setVerticalAlignment(SwingConstants.CENTER);
